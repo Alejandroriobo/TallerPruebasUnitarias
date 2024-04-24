@@ -1,6 +1,6 @@
 import { arrayContainsValue, arrayNotContainsValue } from './array';
 
-describe('arrayContainsValue function', () => {
+describe('arrayContainsValue functions', () => {
     it('should return true if the array contains the value', () => {
         const arr = ['value1', 'value2', 'value3'];
         const value = 'value1';

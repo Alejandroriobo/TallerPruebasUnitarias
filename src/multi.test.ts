@@ -6,7 +6,7 @@ describe('Variable n test', () => {
     });
 });
 
-describe('Variable n test', () => {
+describe('Variable n tests', () => {
     it('should test that n is defined (not undefined)', () => {
         expect(n).toBeDefined();
     });
