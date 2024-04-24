@@ -1,6 +1,6 @@
 import { div } from "./div";
 
-describe('División correcta', () => {
+describe('División correctas', () => {
     it('Debería dividir 10 por 2 y obtener 5', () => {
       const resultado = div(10, 2);
       expect(resultado).toBe(5);
